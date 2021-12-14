@@ -14,7 +14,7 @@ Import to opengd77:
 
 
 
-Set your device to display a 2nd line containing contact details:
+Set your device to display a 2nd line containing contact details or switch to 'Auto':
 
 ![setting](https://user-images.githubusercontent.com/26999615/145956968-8c4d4b4f-e210-48bf-ad8f-829bd478fe54.jpg)
 
