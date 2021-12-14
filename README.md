@@ -17,3 +17,8 @@ Import to opengd77:
 Set your device to display a 2nd line containing contact details:
 
 ![setting](https://user-images.githubusercontent.com/26999615/145956968-8c4d4b4f-e210-48bf-ad8f-829bd478fe54.jpg)
+
+
+Final result:
+
+![volacka](https://user-images.githubusercontent.com/26999615/145963017-cf7121fc-e0d3-42d6-a710-43dc168e2b90.jpg)
